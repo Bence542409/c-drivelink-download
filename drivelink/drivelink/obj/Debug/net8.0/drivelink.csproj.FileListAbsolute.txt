@@ -1,0 +1,14 @@
+C:\Users\bencu\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Asztal\drivelink\drivelink\bin\Debug\net8.0\drivelink.exe
+C:\Users\bencu\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Asztal\drivelink\drivelink\bin\Debug\net8.0\drivelink.deps.json
+C:\Users\bencu\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Asztal\drivelink\drivelink\bin\Debug\net8.0\drivelink.runtimeconfig.json
+C:\Users\bencu\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Asztal\drivelink\drivelink\bin\Debug\net8.0\drivelink.dll
+C:\Users\bencu\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Asztal\drivelink\drivelink\bin\Debug\net8.0\drivelink.pdb
+C:\Users\bencu\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Asztal\drivelink\drivelink\obj\Debug\net8.0\drivelink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bencu\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Asztal\drivelink\drivelink\obj\Debug\net8.0\drivelink.AssemblyInfoInputs.cache
+C:\Users\bencu\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Asztal\drivelink\drivelink\obj\Debug\net8.0\drivelink.AssemblyInfo.cs
+C:\Users\bencu\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Asztal\drivelink\drivelink\obj\Debug\net8.0\drivelink.csproj.CoreCompileInputs.cache
+C:\Users\bencu\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Asztal\drivelink\drivelink\obj\Debug\net8.0\drivelink.dll
+C:\Users\bencu\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Asztal\drivelink\drivelink\obj\Debug\net8.0\refint\drivelink.dll
+C:\Users\bencu\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Asztal\drivelink\drivelink\obj\Debug\net8.0\drivelink.pdb
+C:\Users\bencu\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Asztal\drivelink\drivelink\obj\Debug\net8.0\drivelink.genruntimeconfig.cache
+C:\Users\bencu\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Asztal\drivelink\drivelink\obj\Debug\net8.0\ref\drivelink.dll
